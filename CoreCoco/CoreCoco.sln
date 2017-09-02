@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreCoco", "CoreCoco\CoreCoco.csproj", "{7CBB37EB-AD7F-49F9-9703-F4CAC780BE4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreCoco.Tests", "CoreCoco.Tests\CoreCoco.Tests.csproj", "{DB9BAB9B-263F-43E6-BC58-C5D628FC4116}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CBB37EB-AD7F-49F9-9703-F4CAC780BE4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CBB37EB-AD7F-49F9-9703-F4CAC780BE4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CBB37EB-AD7F-49F9-9703-F4CAC780BE4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CBB37EB-AD7F-49F9-9703-F4CAC780BE4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB9BAB9B-263F-43E6-BC58-C5D628FC4116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB9BAB9B-263F-43E6-BC58-C5D628FC4116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB9BAB9B-263F-43E6-BC58-C5D628FC4116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB9BAB9B-263F-43E6-BC58-C5D628FC4116}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC7C90A3-B375-4292-8455-A861942F7A02}
+	EndGlobalSection
+EndGlobal
